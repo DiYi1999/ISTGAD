@@ -1,3 +1,3 @@
 # ISTGAD
 
-We will make the code available once the paper has been accepted.Thank you for your interest and patience!
+The code and data will be made available upon acceptance of the paper. We sincerely appreciate your interest and patience!
